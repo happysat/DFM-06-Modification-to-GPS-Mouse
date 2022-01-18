@@ -54,7 +54,7 @@
                         href="#Windows_SirfNMEA_Mode_JN3">Windows
                         Sirf/NMEA</a></span><br>
                   </li>
-                  <li><span>1.5</span><a href="#Linux_NMEASirf_">Linux
+                  <li><span>1.5&nbsp;</span><a href="#Linux_NMEASirf_">Linux
                       NMEA/Sirf mode</a><a
                       href="#Zilog_i-Met4_Decoder_Scripts"><br>
                     </a></li>
